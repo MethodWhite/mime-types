@@ -1,0 +1,25 @@
+{
+  "name": "@methodwhite/mime-types",
+  "description": "The ultimate javascript content-type utility with enhanced security",
+  "version": "3.0.2-secure.1",
+  "license": "MIT",
+  "keywords": [
+    "mime",
+    "types",
+    "security"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MethodWhite/mime-types.git"
+  },
+  "author": {
+    "name": "MethodWhite",
+    "email": "MethodWhite.developer@gmail.com"
+  },
+  "dependencies": {
+    "mime-db": "^1.54.0"
+  },
+  "engines": {
+    "node": ">= 14"
+  }
+}
