@@ -7,7 +7,6 @@ updates:
       day: "monday"
     labels:
       - "dependencies"
-      - "security"
     versioning-strategy: increase
     ignore:
       - dependency-name: "*"
