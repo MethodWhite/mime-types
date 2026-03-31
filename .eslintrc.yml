@@ -1,9 +1,3 @@
 root: true
 extends:
   - standard
-overrides:
-  - files: '**/*.md'
-    processor: 'markdown/markdown'
-  - files: '*.js'
-    rules:
-      no-unused-vars: off
