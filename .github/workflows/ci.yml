@@ -63,7 +63,7 @@ jobs:
         with:
           name: coverage-node-${{ matrix.node-version }}
           path: ./coverage/lcov.info
-          retention-days: 1
+          retention-days: 14
 
   coverage:
     needs: test
